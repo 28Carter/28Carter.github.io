@@ -21,7 +21,7 @@ display: flex;
 padding: 10px;
 margin: 10px;
 width: 20%;
-box-shadow: 8px 8px [pick a color];
+box-shadow: 8px 8px [#151515];
 display: block; /* instead of flex */
 border-radius: 20px; /* set last assignment */
 }
@@ -29,7 +29,7 @@ border-radius: 20px; /* set last assignment */
 width: 200px;
 padding: 10px;
 padding: 10px; /* change this from margin to padding */
-border: 2px solid midnightblue; /* try dashed, dotted */
+border: 2px solid #650087; /* try dashed, dotted */
 }
 a {
 text-decoration: none; /* remove underlining on anchor tags */
